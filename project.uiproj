@@ -1,0 +1,6 @@
+{
+  "Name": "GKB_Mapping File",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Sequence.xaml"
+}
